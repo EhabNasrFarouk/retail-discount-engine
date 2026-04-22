@@ -1,0 +1,21 @@
+# SBT build artifacts
+target/
+project/target/
+project/project/
+.bsp/
+
+# IDE files
+.idea/
+*.iml
+.metals/
+.bloop/
+
+# Logs
+*.log
+
+# Large data files
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
